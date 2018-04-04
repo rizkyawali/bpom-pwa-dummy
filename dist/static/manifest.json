@@ -1,14 +1,14 @@
 {
-  "name": "coba-pwa",
-  "short_name": "coba-pwa",
+  "name": "PWA Test PUSDATIN",
+  "short_name": "PWA Test PUSDATIN",
   "icons": [
     {
-      "src": "/static/img/icons/android-chrome-192x192.png",
+      "src": "/static/img/icons/index.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/static/img/icons/android-chrome-512x512.png",
+      "src": "/static/img/icons/index.png",
       "sizes": "512x512",
       "type": "image/png"
     }
