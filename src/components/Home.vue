@@ -1,6 +1,6 @@
 <template>
   <div class="konten">
-    <h1>{{ msg }}</h1>
+    
 
     <input type="text" name="username" v-model="username" />
     <br>
