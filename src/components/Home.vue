@@ -26,7 +26,7 @@ export default {
   name: 'konten',
   data () {
     return {
-      msg: 'Welcome',
+      msg: '',
       username: '',
       user: null
     }
