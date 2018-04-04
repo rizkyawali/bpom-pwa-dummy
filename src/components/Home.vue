@@ -26,7 +26,7 @@ export default {
   name: 'konten',
   data () {
     return {
-      msg: 'Implementasi PWA dengan VueJS dengan memanfaatkan data user dari GithubApi',
+      msg: 'Welcome',
       username: '',
       user: null
     }
